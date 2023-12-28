@@ -49,17 +49,13 @@ color:#45FFCA;
   border-radius: 12px;
 }
 
-#features{
-  margin-left:6%;
-}
-
 #testimonial{
   margin-top:-5%;
 }
 
 #userExamples{
-  margin-bottom: 6%;
-  margin-left:8%;
+  margin-bottom: 6%; 
+  margin-left:8%; 
 }
 
 .userName{
