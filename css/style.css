@@ -112,51 +112,16 @@ color:#45FFCA;
 #footer{
   padding-top:5%;
   padding-bottom:5%;
+  font-size: 20px;
 }
 
-#footer>.container{
-  display:grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-.footerLeft{
-  display:flex;
-  justify-content: left;
-  align-items: center;
-  padding-left:10%;
-}
-
-.footerLeft>h1{
+#footer span{
   font-family:'Sevillana', monospace;
-  font-size: 80px;
 }
-
 
 .icons{
   display:flex;
   gap:5%;
   margin-bottom: 6%;
-}
-
-.footerRight{
-  padding-top:23.5%;
-}
-
-@media (max-width: 992px){
-  .footerLeft>h1{
-    font-size: 60px;
-  }
-}
-
-@media (max-width: 768px){
-  .footerLeft>h1{
-    font-size: 40px;
-  }
-}
-
-@media (max-width: 576px){
-  .footerLeft>h1{
-    font-size: 30px;
-  }
 }
 
