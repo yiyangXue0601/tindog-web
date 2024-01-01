@@ -143,4 +143,12 @@ color:#45FFCA;
   #title img{
     height:350px !important;
   }
+
+  #titleButton{
+    padding-bottom:15%;
+  }
+
+  .card{
+    margin-bottom:3.5%;
+  }
 }
